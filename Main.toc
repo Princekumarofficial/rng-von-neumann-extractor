@@ -1,6 +1,6 @@
 \beamer@sectionintoc {1}{The Security Gap}{3}{0}{1}
 \beamer@sectionintoc {2}{Bell's Theorem}{4}{0}{2}
-\beamer@sectionintoc {3}{Optical Architecture}{5}{0}{3}
-\beamer@sectionintoc {4}{Hardware Attacks}{7}{0}{4}
-\beamer@sectionintoc {5}{DI-QKD}{8}{0}{5}
-\beamer@sectionintoc {6}{True Randomness}{9}{0}{6}
+\beamer@sectionintoc {3}{Optical Architecture}{6}{0}{3}
+\beamer@sectionintoc {4}{Hardware Attacks}{8}{0}{4}
+\beamer@sectionintoc {5}{DI-QKD}{10}{0}{5}
+\beamer@sectionintoc {6}{True Randomness}{11}{0}{6}

@@ -1,0 +1,48 @@
+
+Write the detailed description of the project here. If you wish
+to cite a reference, it as follows:
+
+We have learned from chapter~3 of the book~\cite{ROSS20149} that ... 
+
+%
+You can also use subsections to explain related concepts separately as follows:
+
+\subsection{Title of the Subsection}
+%
+Describe what the subsection is all about ...
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% Import the figure from ./figures directory
+%%%% and use it in your latex document
+%%%% Remember to use .png images only for smooth running
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{figure}[htbp!] % htbp! tells where the fig. should be placed in the page
+    \centering
+    \includegraphics[scale=0.4]{figures/atom.png}
+    \caption[Short description of figure]{\em Long and elaborate description of
+    	figure. You can also cite sources here as~\cite{ROSS20149}.}
+    \label{f:name} % Always label the figure
+\end{figure}
+
+You can refer to the figure in text as Fig.~\ref{f:name}.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% This is how you can create a simple table %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{table}[htbp!]
+    \centering
+    \begin{tabular}{|c|c|c|}
+    \centering
+    \textbf{Lorem} & \textbf{Ipsum} & \textbf{Lorem [\$]} \\ \hline \hline
+		1   & lipsum    & lorem     \\ \hline   
+		2   & lipsum    & lorem   \\ \hline
+		3   & lipsum    & lorem  
+    \end{tabular}
+    \caption[Short Description of Table]{\em More elaborate description of the
+    table.}
+\label{t:name}  % Always give a label to the Table
+\end{table}
+
+This is how you refer to the table in the text as Table~\ref{t:name}.

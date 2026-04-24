@@ -10,7 +10,7 @@
 
 % --- Presentation Metadata ---
 \title[DI-Quantum Comm]{Device-Independent Quantum Communication Technology}
-\subtitle{From Theoretical Paradox to Hardware Security}
+\subtitle{From Theory to Hardware Security}
 \author{Prince Kumar (230051013)}
 \institute{Indian Institute of Technology Indore}
 \date{April 23, 2026}
@@ -49,6 +49,27 @@
 
 % --- Section 2: Theoretical Foundations ---
 \section{Bell's Theorem}
+
+\begin{frame}{Quantum Entanglement}
+    \begin{columns}
+        \begin{column}{0.5\textwidth}
+            \begin{itemize}
+                \item \textbf{Definition:} A phenomenon where particles become intrinsically linked, such that the quantum state of one is inseparable from the others.
+                \item \textbf{Non-Local Correlation:} Measuring one particle instantaneously determines the state of its entangled partner, regardless of physical distance.
+                \item \textbf{Superposition Collapse:} The act of measurement collapses the shared wave-function simultaneously.
+                \item \textbf{Foundation of QKD:} Any eavesdropping attempt automatically breaks the entangled state, introducing detectable errors that compromise security.
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.5\textwidth}
+            \begin{figure}
+                \centering
+                \includegraphics[width=\linewidth]{figures/entanglement_chart.png}
+                \caption{Representation of Quantum Entanglement \cite{quantum_atlas}}
+            \end{figure}
+        \end{column}
+    \end{columns}
+\end{frame}
+
 \begin{frame}{EPR Paradox and the CHSH Inequality}
     \begin{columns}
         \begin{column}{0.6\textwidth}
@@ -78,7 +99,7 @@
     \begin{figure}
         \centering
         \includegraphics[width=0.6\linewidth]{figures/bbm92 (1).png}
-        \caption{BBM92 Architecture: An untrusted central source (Charlie) distributes photons to Alice and Bob.}
+        \caption{BBM92 Architecture: An untrusted central source (Charlie) distributes photons to Alice and Bob \cite{bbm92_diagram}}
     \end{figure}
 \end{frame}
 
@@ -113,6 +134,15 @@
     \begin{alertblock}{The "Hack" Results}
         Eve achieves an unphysical score of $S \approx 2.797$. Alice and Bob remain unaware due to the \textbf{Fair Sampling Assumption}.
     \end{alertblock}
+\end{frame}
+
+\begin{frame}{Countermeasures: Defending the Detectors}
+    \begin{itemize}
+        \item \textbf{High-Energy Laser Detection:} Integrating an optical power meter or dedicated watchdog detector at the receiver's entrance.
+        \item \textbf{Continuous Monitoring:} The watchdog continuously profiles incident optical power against the expected single-photon threshold.
+        \item \textbf{Abort Protocol:} If power exceeds the threshold, the system flags a blinding laser attack and immediately aborts key distribution.
+        \item \textbf{The "Arms Race":} Physical patches often lead to new, creative quantum hacking techniques, underscoring the need for hardware-independent security (DI-QKD).
+    \end{itemize}
 \end{frame}
 
 % --- Section 5: The DI-QKD Solution ---
@@ -152,7 +182,21 @@
     \vspace{0.5cm}
     \centering
     \LARGE \textbf{Thank You!} \\
-    \small \textit{Questions?}
+    \small \textit{Questions?} \\
+    \footnotesize Simulation: \href{https://princekumarofficial.github.io/rng-von-neumann-extractor/}{https://princekumarofficial.github.io/rng-von-neumann-extractor/}
+\end{frame}
+
+\begin{frame}
+    \frametitle{References}
+    \begin{thebibliography}{10}
+        \bibitem{quantum_atlas}
+        Quantum Atlas, University of Maryland.
+        \newblock \href{https://quantumatlas.umd.edu/entry/entanglement/}{Entanglement.}
+        
+        \bibitem{bbm92_diagram}
+        ResearchGate.
+        \newblock \href{https://www.researchgate.net/figure/The-block-diagram-of-implemented-BBM92-protocol-HWP-half-wave-plate-PBS-polarizing_fig1_360556529}{BBM92 protocol block diagram.}
+    \end{thebibliography}
 \end{frame}
 
 \end{document}.

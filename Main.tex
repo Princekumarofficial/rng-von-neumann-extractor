@@ -134,6 +134,27 @@
     \begin{alertblock}{The "Hack" Results}
         Eve achieves an unphysical score of $S \approx 2.797$. Alice and Bob remain unaware due to the \textbf{Fair Sampling Assumption}.
     \end{alertblock}
+\end{frame}N
+
+\begin{frame}{Mechanism of the Faked-State Attack}
+    \begin{columns}
+        \begin{column}{0.5\textwidth}
+            \textbf{Phase 1: Blinding}
+            \begin{itemize}
+                \item Eve injects a continuous, bright, circularly polarized classical laser into the receiver.
+                \item This overloads Avalanche Photodiodes (APDs), dropping them below breakdown voltage.
+                \item APDs exit Geiger mode, becoming entirely \textbf{blind to single photons}.
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.5\textwidth}
+            \textbf{Phase 2: Faking the Violation}
+            \begin{itemize}
+                \item Eve intercepts and measures the genuine quantum state.
+                \item She fires a tailored, \textbf{high-intensity classical pulse} at the blinded detectors.
+                \item This macroscopic pulse forces the targeted APD's current over threshold, artificially triggering a "click".
+            \end{itemize}
+        \end{column}
+    \end{columns}
 \end{frame}
 
 \begin{frame}{Countermeasures: Defending the Detectors}

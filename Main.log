@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.24)  24 APR 2026 18:41
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.24)  24 APR 2026 21:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -862,6 +862,10 @@ Package hyperref Info: Link coloring OFF on input line 18.
 \@outlinefile=\write5
 \openout5 = `Main.out'.
 
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
@@ -958,6 +962,13 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
 File: figures/entanglement_chart.png Graphic file (type bmp)
 <figures/entanglement_chart.png>
 
+
+LaTeX Warning: Citation `quantum_atlas' on page 4 undefined on input line 71.
+
+
+LaTeX Warning: Citation `quantum_atlas' on page 4 undefined on input line 71.
+
+
 Overfull \vbox (68.5419pt too high) detected at line 71
  []
 
@@ -968,6 +979,13 @@ Overfull \vbox (68.5419pt too high) detected at line 71
 ]
 File: figures/bbm92 (1).png Graphic file (type bmp)
 <figures/bbm92 (1).png>
+
+
+LaTeX Warning: Citation `bbm92_diagram' on page 6 undefined on input line 104.
+
+
+LaTeX Warning: Citation `bbm92_diagram' on page 6 undefined on input line 104.
+
 
 Overfull \vbox (44.2546pt too high) detected at line 104
  []
@@ -994,10 +1012,12 @@ Overfull \vbox (136.12613pt too high) detected at line 137
 
 ] [11
 
+] [12
+
 ]
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 187.
- [12
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 208.
+ [13
 
 ]
 File: beamericonarticle.pdf Graphic file (type pdf)
@@ -1006,7 +1026,7 @@ File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
 File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
- [13
+ [14
 
 ]
 \tf@nav=\write6
@@ -1023,16 +1043,29 @@ File: beamericonarticle.pdf Graphic file (type pdf)
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: A862C6AF37B5F386E37FD22A2C58C62E;711.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `Main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Main.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  A862C6AF37B5F386E37FD22A2C58C62E;711.
  ) 
 Here is how much of TeX's memory you used:
- 21562 strings out of 402987
- 414288 string characters out of 5448524
- 814330 words of memory out of 5000000
- 49837 multiletter control sequences out of 15000+600000
- 632854 words of font info for 74 fonts, out of 8000000 for 9000
+ 21565 strings out of 402987
+ 414350 string characters out of 5448524
+ 815217 words of memory out of 5000000
+ 49839 multiletter control sequences out of 15000+600000
+ 632862 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,19n,123p,444b,783s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Main.pdf (13 pages).
+Output written on Main.pdf (14 pages).

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.24)  24 APR 2026 19:03
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.4.24)  17 MAY 2026 11:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -588,7 +588,47 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
+)) (C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.st
+y
+Package: pdfpages 2026/03/30 v0.6h Insert pages of external PDF documents (AM)
+
+(C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count339
+\calc@Bcount=\count340
+\calc@Adimen=\dimen263
+\calc@Bdimen=\dimen264
+\calc@Askip=\skip108
+\calc@Bskip=\skip109
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count341
+\calc@Cskip=\skip110
+)
+(C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
+\ESO@tempdima=\dimen265
+\ESO@tempdimb=\dimen266
+)
+\AM@pagewidth=\dimen267
+\AM@pageheight=\dimen268
+\AM@fboxrule=\dimen269
+
+(C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\ppxetex.def
+File: ppxetex.def 2026/03/30 v0.6h Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count342
+\AM@pagebox=\box62
+\AM@global@opts=\toks33
+\AM@pagecnt=\count343
+\AM@toc@title=\toks34
+\AM@lof@heading=\toks35
+\c@AM@survey=\count344
+\AM@templatesizebox=\box63
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -597,32 +637,32 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 (C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
 ex.def
 File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
-\g__graphics_track_int=\count339
-\g__pdfannot_backend_int=\count340
-\g__pdfannot_backend_link_int=\count341
+\g__graphics_track_int=\count345
+\g__pdfannot_backend_int=\count346
+\g__pdfannot_backend_link_int=\count347
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -658,8 +698,8 @@ LaTeX Font Info:    ... okay on input line 83.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count342
-Package hyperref Info: Link coloring ON on input line 83.
+\c@lstlisting=\count348
+Package hyperref Info: Link coloring ON on input line 84.
 (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -667,29 +707,78 @@ Package hyperref Info: Link coloring ON on input line 83.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-File: root/IITI_Logo.png Graphic file (type bmp)
-<root/IITI_Logo.png>
 
+(C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 
-LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
-(Font)              using `T1/lmr/bx/n' instead on input line 103.
+(C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+))
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf>
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 1>
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 1>
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 1>
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 1>
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 1>
 
 [1
 
 
 ]
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 2>
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 2>
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 2>
+ [2
+
+]
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 3>
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 3>
+File: plagarism-report.pdf Graphic file (type pdf)
+<use plagarism-report.pdf, page 3>
+ [3
+
+]
+File: root/IITI_Logo.png Graphic file (type bmp)
+<root/IITI_Logo.png>
+
+
+LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
+(Font)              using `T1/lmr/bx/n' instead on input line 110.
+
+[1
+
+]
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-23.
+30.
  (C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 125
+LaTeX Font Info:    Trying to load font information for U+msa on input line 132
 .
 
 (C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 125
+LaTeX Font Info:    Trying to load font information for U+msb on input line 132
 .
 
 (C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -705,96 +794,96 @@ Missing character: There is no ’ in font ec-lmssbx10!
 File: figures/bbm92.png Graphic file (type bmp)
 <figures/bbm92.png>
 
-Underfull \hbox (badness 1701) in paragraph at lines 174--175
+Underfull \hbox (badness 1701) in paragraph at lines 181--182
 []\T1/lmr/m/n/12 To im-ple-ment these pro-to-cols, the-o-ret-i-cal
  []
 
 File: figures/generation.png Graphic file (type bmp)
 <figures/generation.png>
 [2]
-Underfull \hbox (badness 1033) in paragraph at lines 189--190
+Underfull \hbox (badness 1033) in paragraph at lines 196--197
 \T1/lmr/m/n/12 uti-lized to re-move wavelength-dependent
  []
 
 Missing character: There is no — in font ec-lmr12!
 Missing character: There is no — in font ec-lmr12!
 
-Underfull \hbox (badness 1221) in paragraph at lines 200--201
+Underfull \hbox (badness 1221) in paragraph at lines 207--208
 \T1/lmr/m/n/12 the No-Cloning The-o-rem, the phys-i-cal end-
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 200--201
+Underfull \hbox (badness 2368) in paragraph at lines 207--208
 \T1/lmr/m/n/12 pointsspecif-i-cally the Avalanche Pho-to-di-odes
  []
 
 File: figures/faking_bell.png Graphic file (type bmp)
 <figures/faking_bell.png>
 [3]
-Underfull \hbox (badness 1838) in paragraph at lines 224--225
+Underfull \hbox (badness 1838) in paragraph at lines 231--232
 []\T1/lmr/m/n/12 To pre-vent such faked vi-o-la-tions of Bell
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 232--233
+Underfull \hbox (badness 2809) in paragraph at lines 239--240
 \T1/lmr/m/n/12 treat-ing all equip-ment as un-trusted "black
  []
 
 [4]
-Underfull \hbox (badness 1533) in paragraph at lines 248--249
+Underfull \hbox (badness 1533) in paragraph at lines 255--256
 \T1/lmr/m/n/12 com-pro-mise the over-ar-ch-ing DI-QKD pro-to-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 [][]\T1/lmr/m/n/12 https://princekumarofficial.github.io/rng-von-
  []
 
 Missing character: There is no — in font ec-lmr12!
 Missing character: There is no — in font ec-lmr12!
 
-Underfull \hbox (badness 1406) in paragraph at lines 254--255
+Underfull \hbox (badness 1406) in paragraph at lines 261--262
 \T1/lmr/m/n/12 Independent QKD rep-re-sents a fun-da-men-tal
  []
 
 Missing character: There is no ’ in font ec-lmr12!
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-83.
+90.
 (C:\Users\xprin\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 6396) in paragraph at lines 281--284
+Underfull \hbox (badness 6396) in paragraph at lines 288--291
 []\T1/lmr/m/n/12 ResearchGate,  ``The block di-a-gram
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--284
+Underfull \hbox (badness 10000) in paragraph at lines 288--291
 \T1/lmr/m/n/12 of im-ple-mented BBM92 pro-to-col,''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--284
+Underfull \hbox (badness 10000) in paragraph at lines 288--291
 [][]$\T1/lmtt/m/n/12 https : / / www . researchgate . net / figure /
  []
 
 
-Overfull \hbox (296.1108pt too wide) in paragraph at lines 281--284
+Overfull \hbox (296.1108pt too wide) in paragraph at lines 288--291
 \T1/lmtt/m/n/12 The-[]block-[]diagram-[]of-[]implemented-[]BBM92-[]protocol-[]H
 WP-[]half-[]wave-[]plate-[]PBS-[]polarizing _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--289
+Underfull \hbox (badness 10000) in paragraph at lines 293--296
 []\T1/lmr/m/n/12 Prince Ku-mar,  ``Von Neu-mann
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--289
+Underfull \hbox (badness 10000) in paragraph at lines 293--296
 \T1/lmr/m/n/12 Ex-trac-tor Sim-u-la-tion,''  [][]$\T1/lmtt/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--289
+Underfull \hbox (badness 10000) in paragraph at lines 293--296
 \T1/lmtt/m/n/12 / / princekumarofficial . github . io /
  []
 
@@ -813,12 +902,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0A940C4840AE51C12911D96B33126F28;4250.
  ) 
 Here is how much of TeX's memory you used:
- 16474 strings out of 402987
- 257771 string characters out of 5448524
- 718294 words of memory out of 5000000
- 44978 multiletter control sequences out of 15000+600000
+ 17391 strings out of 402987
+ 273499 string characters out of 5448524
+ 734943 words of memory out of 5000000
+ 45869 multiletter control sequences out of 15000+600000
  676053 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,11n,79p,1075b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,17n,79p,1075b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (6 pages).
+Output written on main.pdf (9 pages).

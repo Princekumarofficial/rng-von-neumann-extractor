@@ -1,0 +1,20 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{Abstract}{1}{Doc-Start}%
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Theoretical Foundations: The EPR Paradox and Bell’s Theorem}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Local Realism vs. Superposition}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}The CHSH Inequality}{1}{subsection.2.2}%
+\contentsline {section}{\numberline {3}The Entanglement Security Framework}{2}{section.3}%
+\contentsline {section}{\numberline {4}Physical Architecture of Quantum Communication}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}The Entanglement Generation Process}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Advanced Source Designs}{3}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Hardware Vulnerabilities: The Detection Loophole}{3}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Baseline Flaws: Coincidence and PNS}{3}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}The APD Blinding Exploit (Gerhardt et al.)}{3}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Countermeasures Against Blinding Attacks}{4}{subsection.5.3}%
+\contentsline {section}{\numberline {6}The Solution: Device-Independent QKD (DI-QKD)}{4}{section.6}%
+\contentsline {section}{\numberline {7}Closing the Loophole: Quantum Random Number Generators}{4}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Beam Splitter Architecture}{4}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Hardware Bias and the Von Neumann Extractor}{5}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Conclusion}{5}{section.8}%
+\contentsline {section}{References}{5}{section.8}%
